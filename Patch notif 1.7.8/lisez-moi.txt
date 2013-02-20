@@ -1,0 +1,49 @@
+/*************************/
+/* Patch login notif     */
+/* http://nkhelp.fr      */
+/* Made by Yurty         */
+/*************************/
+
+Patch pour la 1.7.8 ! 
+
+ • Contact •
+
+ - dlf.brieuc@gmail.com
+ 
+ - Sur le forum NK-help
+
+
+ • Ce patch contient • 
+
+Un fichier js : user.js
+Un fichier css : user.css
+Une image : notif-images.png
+Un fichier lang : french_lang.php
+
+
+
+
+ • Ce patch contient deux fichiers Users •
+
+ - Le deuxième valide sans patch.
+
+
+
+ • FONCTIONNALITES •
+
+  - Affichage de l'adresse ip lors du login.
+  
+  - Affichage du nombre de message(s) privé(s) lors du login.
+
+  - Affichage en css lors du login ou du message d'erreur lors d'une saisie incorrecte.
+
+
+
+
+ • INSTALLATION • 
+
+ - Uploadez l'un des deux fichiers User dans modules/User/ de votre ftp
+
+
+
+ • La distibution de ce patch est interdite autre que sur le site officiel et nkhelp !! •

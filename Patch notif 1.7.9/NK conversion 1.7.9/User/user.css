@@ -1,0 +1,33 @@
+/*************************/
+/* Patch login notif     */
+/* http://nkhelp.fr      */
+/* Made by Yurty         */
+/*************************/
+
+/* Notif login ok */
+
+.login_succes {
+	color: #FFF;
+	width: 90%;
+	padding: 10px;
+	margin: auto;
+	border-radius: 6px;	box-shadow: 1px 1px 2px rgba(0,0,0,.4);
+	min-height: 20px;
+	background: #EEF4D4 url('images/notif-images.png') no-repeat 100% -370px;
+ 	color: #596C26;
+ 	border: 1px solid #8FAD3D;
+}
+
+/* Notif login error */
+
+.login_error {
+	color: #FFF;
+	width: 90%;
+	padding: 10px;
+	margin: auto;
+	border-radius: 6px;	box-shadow: 1px 1px 2px rgba(0,0,0,.4);
+	min-height: 20px;
+	background: #EFCEC9 url('images/notif-images.png') no-repeat 100% -1120px;
+ 	color: #933628;
+ 	border: 1px solid #AE3F2F;
+}
